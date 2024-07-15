@@ -1,52 +1,52 @@
 # Plann.er
 ![banner](https://github.com/lugomio/nlw-journey/blob/master/banner.png)
 
-## Descrição
+## Description
 
-**Plann.er** é um aplicativo inovador de planejamento de viagens que permite aos usuários criar viagens, adicionar atividades, links úteis e convidar amigos para compartilhar da aventura. 
+**Plann.er** is an innovative travel planning app that allows users to create trips, add activities, useful links, and invite friends to share the adventure.
 
-### Objetivo
-O objetivo principal do Plann.er é proporcionar uma ferramenta eficaz e fácil de usar para organizar e planejar viagens de maneira detalhada e colaborativa.
+### Objective
+The main objective of Plann.er is to provide an effective and easy-to-use tool for organizing and planning trips in a detailed and collaborative manner.
 
-### Por que foi criado
-Este projeto foi criado com a finalidade de iniciar o aprendizado em tecnologias modernas como React e Node.js, proporcionando um ambiente prático para o desenvolvimento dessas habilidades.
+### Why it was created
+This project was created with the aim of starting the learning process in modern technologies such as React and Node.js, providing a practical environment for developing these skills.
 
-## Tecnologias
+## Technologies
 
-Plann.er foi desenvolvido utilizando as seguintes tecnologias:
+Plann.er was developed using the following technologies:
 
-- **JSX**: Uma extensão de sintaxe para JavaScript.
-- **Tailwind CSS**: Um framework de CSS para estilização rápida e eficiente.
-- **React**: Uma biblioteca JavaScript para construção de interfaces de usuário.
-- **Node.js**: Um ambiente de execução JavaScript server-side.
-- **Fastify**: Um framework web para Node.js focado em performance.
-- **Prisma**: Um ORM (Object-Relational Mapping) para Node.js e TypeScript.
+- **JSX**: A syntax extension for JavaScript.
+- **Tailwind CSS**: A CSS framework for quick and efficient styling.
+- **React**: A JavaScript library for building user interfaces.
+- **Node.js**: A server-side JavaScript runtime environment.
+- **Fastify**: A web framework for Node.js focused on performance.
+- **Prisma**: An ORM (Object-Relational Mapping) for Node.js and TypeScript.
 
-## Instruções de Instalação
+## Installation Instructions
 
-### Pré-requisitos
+### Prerequisites
 
-Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
+Before you begin, make sure you have the following tools installed on your machine:
 
 - **Node.js**: [Download Node.js](https://nodejs.org/)
-- **npm** (gerenciador de pacotes do Node.js): Normalmente instalado junto com o Node.js
+- **npm** (Node.js package manager): Usually installed with Node.js
 - **Git**: [Download Git](https://git-scm.com/)
 
-### Etapas
+### Steps
 
-1. Clone este repositório:
+1. Clone this repository:
 
    ```bash
    git clone https://github.com/lugomio/nlw-journey.git
    ```
 
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
 
    ```bash
    cd nlw-journey
    ```
 
-3. Siga as intruções presentes no README do frontend e backend:
+3. Follow the instructions in the README files for the frontend and backend:
 
    ```bash
    cd react
@@ -55,14 +55,14 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
    cd nodejs
    ```
 
-## Licença
+## License
 
-Este projeto é licenciado sob a [MIT License](LICENSE.md).
-
----
-
-Sinta-se à vontade para contribuir com melhorias e novas funcionalidades! Se tiver alguma dúvida ou sugestão, não hesite em abrir uma issue ou entrar em contato.
+This project is licensed under the [MIT License](LICENSE.md).
 
 ---
 
-Feito com 💙 por lugom.io.
+Feel free to contribute with improvements and new features! If you have any questions or suggestions, don't hesitate to open an issue or get in touch.
+
+---
+
+Made with 💙 by lugom.io.

@@ -1,53 +1,53 @@
 # Plann.er
 ![banner](https://github.com/lugomio/nlw-journey/blob/master/banner.png)
 
-## Descrição
+## Description
 
-**Plann.er** é um aplicativo inovador de planejamento de viagens que permite aos usuários criar viagens, adicionar atividades, links úteis e convidar amigos para compartilhar da aventura. 
+**Plann.er** is an innovative travel planning app that allows users to create trips, add activities, useful links, and invite friends to share the adventure.
 
-### Objetivo
-O objetivo principal do Plann.er é proporcionar uma ferramenta eficaz e fácil de usar para organizar e planejar viagens de maneira detalhada e colaborativa.
+### Objective
+The main objective of Plann.er is to provide an effective and easy-to-use tool for organizing and planning trips in a detailed and collaborative manner.
 
-### Por que foi criado
-Este projeto foi criado com a finalidade de iniciar o aprendizado em tecnologias modernas como React, proporcionando um ambiente prático para o desenvolvimento dessas habilidades.
+### Why it was created
+This project was created to begin learning modern technologies like React, providing a practical environment for developing these skills.
 
-## Tecnologias
+## Technologies
 
-Plann.er foi desenvolvido utilizando as seguintes tecnologias:
+Plann.er was developed using the following technologies:
 
-- **JSX**: Uma extensão de sintaxe para JavaScript.
-- **Tailwind CSS**: Um framework de CSS para estilização rápida e eficiente.
-- **React**: Uma biblioteca JavaScript para construção de interfaces de usuário.
+- **JSX**: A syntax extension for JavaScript.
+- **Tailwind CSS**: A CSS framework for quick and efficient styling.
+- **React**: A JavaScript library for building user interfaces.
 
+## Installation Instructions
 
-## Instruções de Instalação
+### Steps
 
-### Etapas
-
-1. Siga as etapas presentes no README da pasta principal nlw-journey.
-2. Navegue até o diretório do frontend:
+1. Follow the steps in the README of the main nlw-journey folder.
+2. Navigate to the frontend directory:
 
    ```bash
    cd nlw-journey/react
    ```
 
-3. Instale as dependencias:
+3. Install dependencies:
 
    ```bash
    npm install
    ```
-4. Inicie o servidor de desenvolvimento:
+
+4. Start the development server:
 
    ```bash
    npm run dev
    ```
 
-## Como Usar
+## How to Use
 
-1. **Criar uma nova viagem**: Utilize a interface para adicionar uma nova viagem, fornecendo detalhes como destino e datas.
+1. **Create a new trip**: Use the interface to add a new trip, providing details such as destination and dates.
 
-2. **Adicionar atividades**: Dentro de cada viagem, adicione atividades planejadas, definindo horários.
+2. **Add activities**: Within each trip, add planned activities by setting schedules.
 
-3. **Links úteis**: Adicione links importantes relacionados à viagem, como reservas de hotéis, informações de voo, etc.
+3. **Useful links**: Add important links related to the trip, such as hotel reservations, flight information, etc.
 
-4. **Convidar amigos**: Envie convites para amigos se juntarem à viagem.
+4. **Invite friends**: Send invitations for friends to join the trip.
