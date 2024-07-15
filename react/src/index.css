@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    min-width: 0;
+}
+
+input {
+    color-scheme: dark;
+}
+
+.rdp-day_selected {
+    @apply bg-lime-400;
+}
+
+.rdp-day_selected:hover {
+    @apply bg-lime-300;
+}
+
+.rdp-button:hover:not([disabled]):not(.rdp-day_selected) {
+    @apply bg-black;
+}
